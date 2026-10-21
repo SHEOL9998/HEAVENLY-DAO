@@ -9,8 +9,8 @@
 // @run-at       document-start
 // @noframes
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/heavenly-dao-murim-azure.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/heavenly-dao-murim-azure.user.js
+// @updateURL    https://raw.githubusercontent.com/SHEOL9998/HEAVENLY-DAO/main/heavenly-dao-murim-azure.user.js
+// @downloadURL  https://raw.githubusercontent.com/SHEOL9998/HEAVENLY-DAO/main/heavenly-dao-murim-azure.user.js
 // ==/UserScript==
 /*
  * 天道 Heavenly Dao – Murim theme v1.0 · AZURE edition (blue / black / white recolour)
